@@ -1,0 +1,956 @@
+Uri: https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\mediamines.ca\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCNI0.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCNI0.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCNI0.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CNI0.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FNI0.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFNI0.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FNI0.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0ENI0.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZu0ENI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FNI0.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mwjJQVG.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mwjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mwKIgVG.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mwKIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myjJAVG.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7myjJAVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mz9JQVG.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mz9JQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\s\poppins\v20\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://images.dmca.com/Badges/dmca-badge-w250-2x1-01.png?ID=6e0c7c3e-d409-41d6-9059-131580157cb9
+File Name: C:\Downloaded Web Sites\mediamines.ca\Badges\dmca-badge-w250-2x1-01.png
+Content Type: image/png
+
+Uri: https://images.dmca.com/Badges/DMCABadgeHelper.min.js
+File Name: C:\Downloaded Web Sites\mediamines.ca\Badges\DMCABadgeHelper.min.js
+Content Type: application/javascript
+
+Uri: https://mediamines.ca/
+File Name: C:\Downloaded Web Sites\mediamines.ca\index.htm
+Content Type: text/html
+
+Uri: https://mediamines.ca/about
+File Name: C:\Downloaded Web Sites\mediamines.ca\about.html
+Content Type: text/html
+
+Uri: https://mediamines.ca/affiliate-program
+File Name: C:\Downloaded Web Sites\mediamines.ca\affiliate-program.html
+Content Type: text/html
+
+Uri: https://mediamines.ca/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://mediamines.ca/assets/css/aos.css
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://mediamines.ca/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://mediamines.ca/assets/css/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://mediamines.ca/assets/css/icomoon.css
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\css\icomoon.css
+Content Type: text/css
+
+Uri: https://mediamines.ca/assets/css/lightcase.css
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\css\lightcase.css
+Content Type: text/css
+
+Uri: https://mediamines.ca/assets/css/line-awesome.min.css
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\css\line-awesome.min.css
+Content Type: text/css
+
+Uri: https://mediamines.ca/assets/css/nice-select.css
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\css\nice-select.css
+Content Type: text/css
+
+Uri: https://mediamines.ca/assets/css/odometer.css
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\css\odometer.css
+Content Type: text/css
+
+Uri: https://mediamines.ca/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://mediamines.ca/assets/css/style.css
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\css\style.css
+Content Type: text/css
+
+Uri: https://mediamines.ca/assets/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://mediamines.ca/assets/fonts/icomoon.eot?4kpdhm
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mediamines.ca/assets/fonts/icomoon.svg?4kpdhm
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://mediamines.ca/assets/fonts/icomoon.ttf?4kpdhm
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://mediamines.ca/assets/fonts/icomoon.woff?4kpdhm
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://mediamines.ca/assets/fonts/la-brands-400.eot
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mediamines.ca/assets/fonts/la-brands-400.eot?
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mediamines.ca/assets/fonts/la-brands-400.svg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://mediamines.ca/assets/fonts/la-brands-400.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://mediamines.ca/assets/fonts/la-brands-400.woff
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-brands-400.woff
+Content Type: font/woff
+
+Uri: https://mediamines.ca/assets/fonts/la-brands-400.woff2
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://mediamines.ca/assets/fonts/la-regular-400.eot
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mediamines.ca/assets/fonts/la-regular-400.eot?
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mediamines.ca/assets/fonts/la-regular-400.svg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://mediamines.ca/assets/fonts/la-regular-400.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://mediamines.ca/assets/fonts/la-regular-400.woff
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-regular-400.woff
+Content Type: font/woff
+
+Uri: https://mediamines.ca/assets/fonts/la-regular-400.woff2
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://mediamines.ca/assets/fonts/la-solid-900.eot
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mediamines.ca/assets/fonts/la-solid-900.eot?
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mediamines.ca/assets/fonts/la-solid-900.svg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://mediamines.ca/assets/fonts/la-solid-900.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://mediamines.ca/assets/fonts/la-solid-900.woff
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-solid-900.woff
+Content Type: font/woff
+
+Uri: https://mediamines.ca/assets/fonts/la-solid-900.woff2
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\la-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://mediamines.ca/assets/fonts/lightcase.woff?55356177
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\fonts\lightcase.woff
+Content Type: font/woff
+
+Uri: https://mediamines.ca/assets/images/about_us_section1.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\about_us_section1.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/bings-logo.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\bings-logo.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/blog/blog-1.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\blog\blog-1.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/blog/blog-10.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\blog\blog-10.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/blog/blog-11.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\blog\blog-11.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/blog/blog-4.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\blog\blog-4.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/blog/blog-5.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\blog\blog-5.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/blog/blog-6.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\blog\blog-6.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/blog/blog-7.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\blog\blog-7.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/blog/blog-8.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\blog\blog-8.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/blog/blog-9.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\blog\blog-9.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/blog/blog-big-2.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\blog\blog-big-2.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/client/quote-2.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\client\quote-2.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/contact.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\contact.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/element/element-1.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-1.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-16.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-16.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-23.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-23.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-24.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-24.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-26.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-26.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-28.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-28.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-33.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-33.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-39.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-39.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-40.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-40.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-41.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-41.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-42.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-42.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-45.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-45.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-46.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-46.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-48.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-48.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-5.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-5.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-52.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-52.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-53.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-53.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-54.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-54.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-55.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-55.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-56.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-56.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-58.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-58.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-59.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-59.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-6.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-6.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-60.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-60.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-62.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-62.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-66.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-66.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-69.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-69.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-7.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-7.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-70.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-70.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-71.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-71.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-72.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-72.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-73.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-73.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-74.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-74.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/element-96.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\element-96.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/element/home_section3.webp
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\element\home_section3.webp
+Content Type: image/webp
+
+Uri: https://mediamines.ca/assets/images/fav.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\fav.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/google.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\google.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/home-three/dev-bg.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\home-three\dev-bg.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/icon/CMS.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\icon\CMS.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/icon/DIGITAL_MARKETING.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\icon\DIGITAL_MARKETING.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/icon/ECOMMERCE.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\icon\ECOMMERCE.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/icon/icon-17.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\icon\icon-17.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/icon/icon-18.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\icon\icon-18.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/icon/icon-19.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\icon\icon-19.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/icon/icon-20.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\icon\icon-20.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/icon/icon-26.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\icon\icon-26.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/icon/icon-8.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\icon\icon-8.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/icon/icon-9.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\icon\icon-9.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/icon/LOGO_DESIGN.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\icon\LOGO_DESIGN.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/icon/MOBILE_APP.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\icon\MOBILE_APP.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/icon/WEB_DESIGN.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\icon\WEB_DESIGN.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/popup_modal.webp
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\popup_modal.webp
+Content Type: image/webp
+
+Uri: https://mediamines.ca/assets/images/popup_modal1.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\popup_modal1.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/branding_1.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\branding_1.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/branding_2.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\branding_2.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/branding_3.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\branding_3.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/branding_4.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\branding_4.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/branding_5.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\branding_5.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/branding_6.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\branding_6.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/branding_7.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\branding_7.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/branding_8.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\branding_8.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/branding_9.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\branding_9.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/ecommerce_1.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\ecommerce_1.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/ecommerce_2.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\ecommerce_2.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/ecommerce_3.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\ecommerce_3.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/ecommerce_4.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\ecommerce_4.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/ecommerce_5.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\ecommerce_5.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/ecommerce_6.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\ecommerce_6.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/ecommerce_7.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\ecommerce_7.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/ecommerce_8.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\ecommerce_8.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/ecommerce_9.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\ecommerce_9.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/logo_1.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\logo_1.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/logo_2.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\logo_2.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/logo_3.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\logo_3.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/logo_4.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\logo_4.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/logo_5.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\logo_5.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/logo_6.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\logo_6.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/logo_7.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\logo_7.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/logo_8.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\logo_8.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/logo_9.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\logo_9.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/portfolio/portfolio-img-large-01.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\portfolio-img-large-01.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/portfolio-img-large-02.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\portfolio-img-large-02.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/portfolio-img-large-03.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\portfolio-img-large-03.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/portfolio-img-large-04.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\portfolio-img-large-04.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/portfolio-img-large-05.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\portfolio-img-large-05.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/portfolio-img-large-06.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\portfolio-img-large-06.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/portfolio-img-large-07.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\portfolio-img-large-07.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/portfolio-img-large-08.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\portfolio-img-large-08.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/portfolio/portfolio-img-large-09.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\portfolio\portfolio-img-large-09.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/service/digital_marketing_service.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\service\digital_marketing_service.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/service/ecommerce_service.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\service\ecommerce_service.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/service/logo_service.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\service\logo_service.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/service/video_editing_service.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\service\video_editing_service.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/service/web_application.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\service\web_application.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/service/web_design_service.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\service\web_design_service.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/team/team-1.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\team\team-1.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/team/team-2.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\team\team-2.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/team/team-4.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\team\team-4.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/team/team-5.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\team\team-5.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/team/team-9.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\team\team-9.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/images/testimonial_1.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\testimonial_1.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/testimonial_2.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\testimonial_2.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/testimonial_3.jpg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\testimonial_3.jpg
+Content Type: image/jpeg
+
+Uri: https://mediamines.ca/assets/images/trust-b.png
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\images\trust-b.png
+Content Type: image/png
+
+Uri: https://mediamines.ca/assets/js/aos.js
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\js\aos.js
+Content Type: application/javascript
+
+Uri: https://mediamines.ca/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://mediamines.ca/assets/js/footerDate.js
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\js\footerDate.js
+Content Type: application/javascript
+
+Uri: https://mediamines.ca/assets/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://mediamines.ca/assets/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://mediamines.ca/assets/js/jquery.nice-select.js
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\js\jquery.nice-select.js
+Content Type: application/javascript
+
+Uri: https://mediamines.ca/assets/js/lightcase.js
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\js\lightcase.js
+Content Type: application/javascript
+
+Uri: https://mediamines.ca/assets/js/main.js
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://mediamines.ca/assets/js/odometer.min.js
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\js\odometer.min.js
+Content Type: application/javascript
+
+Uri: https://mediamines.ca/assets/js/swiper.min.js
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\js\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://mediamines.ca/assets/js/TweenMax.min.js
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\js\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: https://mediamines.ca/assets/js/viewport.jquery.js
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\js\viewport.jquery.js
+Content Type: application/javascript
+
+Uri: https://mediamines.ca/assets/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mediamines.ca/assets/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mediamines.ca/assets/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://mediamines.ca/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://mediamines.ca/assets/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://mediamines.ca/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://mediamines.ca/assets/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mediamines.ca/assets/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mediamines.ca/assets/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://mediamines.ca/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://mediamines.ca/assets/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://mediamines.ca/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://mediamines.ca/assets/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mediamines.ca/assets/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mediamines.ca/assets/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://mediamines.ca/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://mediamines.ca/assets/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://mediamines.ca/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\mediamines.ca\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://mediamines.ca/blog
+File Name: C:\Downloaded Web Sites\mediamines.ca\blog.html
+Content Type: text/html
+
+Uri: https://mediamines.ca/blog-details
+File Name: C:\Downloaded Web Sites\mediamines.ca\blog-details.html
+Content Type: text/html
+
+Uri: https://mediamines.ca/contact
+File Name: C:\Downloaded Web Sites\mediamines.ca\contact.html
+Content Type: text/html
+
+Uri: https://mediamines.ca/digital-marketing
+File Name: C:\Downloaded Web Sites\mediamines.ca\digital-marketing.html
+Content Type: text/html
+
+Uri: https://mediamines.ca/e-commerce-website
+File Name: C:\Downloaded Web Sites\mediamines.ca\e-commerce-website.html
+Content Type: text/html
+
+Uri: https://mediamines.ca/index
+File Name: C:\Downloaded Web Sites\mediamines.ca\index.html
+Content Type: text/html
+
+Uri: https://mediamines.ca/logo-design
+File Name: C:\Downloaded Web Sites\mediamines.ca\logo-design.html
+Content Type: text/html
+
+Uri: https://mediamines.ca/portfolio
+File Name: C:\Downloaded Web Sites\mediamines.ca\portfolio.html
+Content Type: text/html
+
+Uri: https://mediamines.ca/video-editing
+File Name: C:\Downloaded Web Sites\mediamines.ca\video-editing.html
+Content Type: text/html
+
+Uri: https://mediamines.ca/web-application
+File Name: C:\Downloaded Web Sites\mediamines.ca\web-application.html
+Content Type: text/html
+
+Uri: https://mediamines.ca/website-design
+File Name: C:\Downloaded Web Sites\mediamines.ca\website-design.html
+Content Type: text/html
+
+Uri: https://unpkg.com/sweetalert@2.1.2/dist/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\mediamines.ca\sweetalert@2.1.2\dist\sweetalert.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-11250377589
+File Name: C:\Downloaded Web Sites\mediamines.ca\gtag\js
+Content Type: application/javascript
+
